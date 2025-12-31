@@ -1,0 +1,2 @@
+# External libraries only. Tkinter is included in Python 3.x by default.
+pyjokes==0.6.0
